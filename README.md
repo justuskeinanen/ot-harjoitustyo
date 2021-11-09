@@ -2,9 +2,9 @@
 ## Overview
 This project *project_name* will contain things that are **awesome** and **cool**. 
 ### TODO:
-[ ] something **awesome** 
-[ ] something **cool**
-[ ] come up with a name and idea for project
+- [ ] something **awesome** 
+- [ ] something **cool**
+- [ ] come up with a name and idea for project
 
 ## Assingnments
 ### Week 1
