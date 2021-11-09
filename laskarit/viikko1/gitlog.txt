@@ -1,0 +1,128 @@
+commit a71543004390dba6b4825531cdf964cac362572b (HEAD -> master)
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Mon Nov 8 20:46:27 2021 +0200
+
+    Delete file1, rename file2 to file22
+    
+    Git claims that file2 was deleted and file1 was renamed to file22. Both
+    are empty, so no matter.
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit ebaba807c051041ee3513cd18391484af6483378
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Mon Nov 8 20:38:59 2021 +0200
+
+    Create directory tiedostoja and three files: file1, file2, file3
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 9b057a9682902f5c76bb01d5c6f184db234a52b6
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Mon Nov 8 20:34:51 2021 +0200
+
+    Delete accidentally created file
+
+ xclip | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit f43b25e5a291b73a50e9b9536d586776a59f9927
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 13:08:01 2021 +0200
+
+    Add greeting to kolmas.txt, Make eka.txt more concise
+
+ eka.txt    | 3 ++-
+ kolmas.txt | 1 +
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 5f04d172bfd2591a1fbe9fa8f1ee92c23c4369bd
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 13:03:53 2021 +0200
+
+    Rename tiedosto.txt to eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 93f3aa8203f39abb8ad6eb40547300867d6b0988
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 13:02:50 2021 +0200
+
+    Remove toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 81418fbe56156956bca8a79df53e2cbfa994ca58
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 12:58:24 2021 +0200
+
+    Minor update to tiedosto.txt
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 38b102b2322443e6604c9638e364b33b02478251
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 12:55:38 2021 +0200
+
+    Add info on CSB
+
+ tiedosto.txt | 6 ++++++
+ xclip        | 1 +
+ 2 files changed, 7 insertions(+)
+
+commit abb1f4a8bf17ea61a787cd69588f6872dc2a3ac8
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 12:42:20 2021 +0200
+
+    Add stuff
+
+ stuff/sala.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 838e4eed666a8061e3e4d617d85f827c0e55cad3
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 12:32:24 2021 +0200
+
+    Add sentence to toinen.txt
+
+ toinen.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit d0fbe671d55b56c1f87f4db40e16ec2d26bab086
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 12:31:38 2021 +0200
+
+    Create kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 26e14775ceec7f0720b1381614627863abf06074
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 12:26:23 2021 +0200
+
+    Muutos ja lisäys
+
+ tiedosto.txt | 2 ++
+ toinen.txt   | 0
+ 2 files changed, 2 insertions(+)
+
+commit 6b9dac0174a562c04c03b14a7b9b4f6f4210ac70
+Author: Justus Keinänen <justuskeinanen@gmail.com>
+Date:   Sat Nov 6 12:18:25 2021 +0200
+
+    Created tiedosto.txt
+    
+    Created empty utf-8 text file named tiedosto.txt. Initial commit
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
