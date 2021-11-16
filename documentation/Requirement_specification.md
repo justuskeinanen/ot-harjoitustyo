@@ -16,7 +16,7 @@ Tämä osio tulee pian täydentymään
 Ohjelmassa voidaan luoda pelihahmoja ja tapahtumia edustavia kortteja tai laattoja, joita voidaan muokata pelitilanteen edetessä. 
 
 #### Jatkokehitysideoita
-Ohjelmaa voidaan pelata joko täysin erillään tai yhdessä haptisten 
+Ohjelmaa voidaan pelata joko täysin erillään tai yhdessä haptisten objektien kanssa.  
 
  
  
