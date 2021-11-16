@@ -6,7 +6,7 @@ This project *project_name* will contain things that are **awesome** and **cool*
 - [ ] something **cool**
 - [ ] come up with a name and idea for project
 - [x] essential guidelines for project
-## [Timesheet](<!-- this -->documentation/timesheet.md)
+## [Timesheet](<!-- this -->https://github.com/justuskeinanen/ot-harjoitustyo/blob/master/documentation/timesheet.md)
 
 ## Assignments
 ### Week 1
