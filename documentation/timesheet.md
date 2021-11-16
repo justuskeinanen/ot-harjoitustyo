@@ -2,6 +2,6 @@
 
 | päivä | aika | mitä tein  |
 | :----:|:-----| :-----|
-| 17.11. | 9h  | Olen kerrannut git:in bashin jne, koittanut tehdä perusrakennetta ja vaatimusmäärittelyä. Paljon pientä projektin aloittamiseen liittyvää puuhaa ja pohdintaa. |
-|17.11. | 
+| 16.11. | 9h  | Kertausta: git:in, bash:in,  jne. Koittanut tehdä perusrakennetta ja pohtia rakennetta. Alustavaa vaatimusmäärittelyä, ei vielä käyttöliittymäluonnoksia . Paljon pientä projektin aloittamiseen liittyvää puuhaa ja pohdintaa. |
+|17.11. | 1h | Taustatutkimusta, opettelua, kertaamista. |
 | yht   |  n. 15h  | read commit | 
