@@ -11,7 +11,7 @@ This project *project_name* will contain things that are **awesome** and **cool*
 ## [Timesheet](https://github.com/justuskeinanen/ot-harjoitustyo/blob/master/documentation/timesheet.md)
 ## [Documentation](https://github.com/justuskeinanen/ot-harjoitustyo/tree/master/documentation)
 ### [Requirement Specification](documentation/Requirement_specification.md)
-## Assignments
+## [Laskarit/Assignments](https://github.com/justuskeinanen/ot-harjoitustyo/tree/master/laskarit)
 ### Week 1
 * [git](https://github.com/justuskeinanen/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 * [bash](https://github.com/justuskeinanen/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
