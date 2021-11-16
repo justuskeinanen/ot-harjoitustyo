@@ -14,6 +14,6 @@ This project "Noitametsä" will contain multiple level **awesome** and **cool** 
 ## [Documentation](https://github.com/justuskeinanen/ot-harjoitustyo/tree/master/documentation)
 ### [Requirement Specification](documentation/Requirement_specification.md)
 ## [Laskarit/Assignments](https://github.com/justuskeinanen/ot-harjoitustyo/tree/master/laskarit)
-### Week 1
+### [Week 1](https://github.com/justuskeinanen/ot-harjoitustyo/tree/master/laskarit/viikko1)
 * [git](https://github.com/justuskeinanen/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 * [bash](https://github.com/justuskeinanen/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
