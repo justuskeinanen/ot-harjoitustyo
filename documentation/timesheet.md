@@ -1,14 +1,6 @@
-# Ohjelmistotekniikan harjoitustyö
-## Overview
-This project *project_name* will contain things that are **awesome** and **cool**. 
-### TODO:
-- [ ] something **awesome** 
-- [ ] something **cool**
-- [ ] come up with a name and idea for project
-- [x] essential guidelines for project
-## [Timesheet](<!-- this --> ) 
-## Assignments
-### Week 1
-* [git](https://github.com/justuskeinanen/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
-* [bash](https://github.com/justuskeinanen/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+# Working time accounting Työaikakirjanpito
 
+| päivä | aika | mitä tein  |
+| :----:|:-----| :-----|
+| 18.2. | 3    | Olen kerrannut git:in bashin jne, koittanut tehdä perusrakennetta ja vaatimusmäärittelyä |
+| yht   |  n. 8h  | parhaani | 
