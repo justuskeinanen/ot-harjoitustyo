@@ -1,12 +1,14 @@
 # Ohjelmistotekniikan harjoitustyö
 ## Overview
-This project *project_name* will contain things that are **awesome** and **cool**. 
+This project "Noitametsä" will contain multiple level **awesome** and **cool** game that will make socks spin and everything good again. 
+
 ### TODO:
-- [x] something **awesome** 
-- [x] something **cool**
+- [ ] something **awesome** 
+- [ ] something **cool**
 - [x] come up with a name and idea for project
 - [x] essential guidelines for project
-- [x] ...
+- [ ] remember to update timesheet.md
+
 
 ## [Timesheet](https://github.com/justuskeinanen/ot-harjoitustyo/blob/master/documentation/timesheet.md)
 ## [Documentation](https://github.com/justuskeinanen/ot-harjoitustyo/tree/master/documentation)
